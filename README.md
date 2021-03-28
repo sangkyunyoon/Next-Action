@@ -1,2 +1,2 @@
-# Next-Action
-Next Action is tool for GTD
+# Next-Actions
+Next Actions is tool for GTD
